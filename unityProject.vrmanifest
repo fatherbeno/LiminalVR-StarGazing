@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.templatelimapp.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\Benjamin\\Desktop\\SAE\\Year2\\Trimester 3\\WorkPlacement\\LiminalVR-CloudGazing\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "Cloud Gazing [Testing]"
+        }
+      }
+    }
+  ]
+}
